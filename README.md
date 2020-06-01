@@ -7,6 +7,9 @@ Achieved a **89.97%** accuracy on the training images and an **90.29%** accuracy
 
 ## Results
 
+![](outputs/soccer_output.avi)
+---
+
 ![](output_images/fb1.png)
 ---
 ![](output_images/fb2.png)
